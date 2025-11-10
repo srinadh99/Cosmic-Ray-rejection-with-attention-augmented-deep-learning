@@ -21,10 +21,10 @@ The app provides:
   <em>Figure: Interactive CR mask visualization interface of the Attention U-Net web application.</em>
 </p>
   
-This tool is handy for astronomers to fine-tune **detection thresholds** and **inspect CR contamination patterns** interactively.
+This tool is handy for astronomers to fine-tune **detection thresholds** and **interactively inspect CR contamination patterns**.
 
 🚀 **Upcoming Update:**
-We are actively adding new features — the **final version with transformer-based CR segmentation and analysis** will be released soon!
+We are actively adding new features — the final version, featuring transformer-based CR segmentation and analysis, will be released soon!
 
 
 
@@ -42,6 +42,3 @@ If you find this project useful in your research, please consider citing:
   year    = {2022},
   publisher = {Elsevier}
 }
-
-📄 **Reference:**
-Bhavanam, S. R., Channappayya, S. S., Srijith, P. K., & Desai, S. (2022). *Cosmic Ray rejection with attention augmented deep learning*. **Astronomy and Computing, 40**, 100625. [https://doi.org/10.1016/j.ascom.2022.100625](https://doi.org/10.1016/j.ascom.2022.100625)
