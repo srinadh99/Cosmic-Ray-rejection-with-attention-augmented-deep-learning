@@ -15,6 +15,12 @@ The app provides:
 * **Manual editing support** for refining the CR masks
 * **Dynamic threshold tuning** for adapting to various observational datasets
 
+<p align="center">
+  <img src="attentionunet_webapp.png" alt="Attention U-Net Web App" width="80%">
+  <br>
+  <em>Figure: Interactive CR mask visualization interface of the Attention U-Net web application.</em>
+</p>
+  
 This tool is handy for astronomers to fine-tune **detection thresholds** and **inspect CR contamination patterns** interactively.
 
 🚀 **Upcoming Update:**
