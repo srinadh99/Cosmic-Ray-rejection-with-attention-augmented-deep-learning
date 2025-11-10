@@ -16,7 +16,7 @@ The app provides:
 * **Dynamic threshold tuning** for adapting to various observational datasets
 
 <p align="center">
-  <img src="attentionunet_webapp.png" alt="Attention U-Net Web App" width="80%">
+  <img src="AttentionUNet_webapp.png" alt="Attention U-Net Web App" width="80%">
   <br>
   <em>Figure: Interactive CR mask visualization interface of the Attention U-Net web application.</em>
 </p>
