@@ -23,10 +23,10 @@ The app provides:
   
 This tool is handy for astronomers to fine-tune **detection thresholds** and **interactively inspect CR contamination patterns**.
 
-🚀 **Upcoming Update:**
-We are actively adding new features — the final version, featuring transformer-based CR segmentation and analysis, will be released soon!
+## 🚀 Public Release & Upcoming Update
 
-
+We are actively adding new features — the **final version**, featuring **transformer-based CR segmentation and analysis**, will be **released soon**!  
+Stay tuned for the next major update with improved model performance, multi-image batch support, and enhanced web interactivity.
 
 ## 📖 Citation
 
