@@ -5,6 +5,23 @@ This work has been accepted to the Elsevier Journal of Astronomy and Computing, 
 
 For more details on code and trained models, please visit our LFOVIA lab webpage here [[https://github.com/lfovia/Attention-Augmented-Cosmic-Ray-Detection-in-Astronomical-Images](https://github.com/lfovia/Attention-Augmented-Cosmic-Ray-Detection-in-Astronomical-Images/tree/main)](url).
 
+
+## 🌐 Web App
+
+We have developed an interactive **web application** to automatically identify and visualize large **cosmic ray (CR) hits** for close inspection.
+The app provides:
+
+* **Live CR mask visualization** over the input FITS images
+* **Manual editing support** for refining the CR masks
+* **Dynamic threshold tuning** for adapting to various observational datasets
+
+This tool is handy for astronomers to fine-tune **detection thresholds** and **inspect CR contamination patterns** interactively.
+
+🚀 **Upcoming Update:**
+We are actively adding new features — the **final version with transformer-based CR segmentation and analysis** will be released soon!
+
+
+
 ## 📖 Citation
 
 If you find this project useful in your research, please consider citing:
@@ -20,3 +37,5 @@ If you find this project useful in your research, please consider citing:
   publisher = {Elsevier}
 }
 
+📄 **Reference:**
+Bhavanam, S. R., Channappayya, S. S., Srijith, P. K., & Desai, S. (2022). *Cosmic Ray rejection with attention augmented deep learning*. **Astronomy and Computing, 40**, 100625. [https://doi.org/10.1016/j.ascom.2022.100625](https://doi.org/10.1016/j.ascom.2022.100625)
